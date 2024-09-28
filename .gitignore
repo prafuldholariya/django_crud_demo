@@ -6,3 +6,6 @@ __pycache__/
 
 # VS Code my virtual enviroment file path
 _venv
+
+# Database
+*.sqlite3
