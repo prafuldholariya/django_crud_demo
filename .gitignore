@@ -1,0 +1,8 @@
+### Python template
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# VS Code my virtual enviroment file path
+_venv
